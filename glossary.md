@@ -7,9 +7,9 @@
 
 ## Contents
 
-[Node.js](#node-js)<br>
-[GitHub helpful](#github-helpful)<br>
-[Termins for Frontend Development ENG](#termins-front-end)<br>
++ [Node.js](#node-js)<br>
++ [GitHub helpful](#github-helpful)<br>
++ [Termins for Frontend Development ENG](#termins-front-end)<br>
 
 <br>
 <br>
@@ -44,7 +44,7 @@ This is the *[Markdown Guide Extended Syntax](https://www.markdownguide.org/exte
 
 <h2 id="node-js">Node.js</h2>
 
-#### Node npm helpful packages.
+### Node npm helpful packages.
 Node.js is an open-source, cross-platform, JavaScript runtime for writing servers and command-line tools<br>
 *[see packages](https://github.com/sindresorhus/awesome-nodejs)* <br>
 or <br>
@@ -52,4 +52,62 @@ need write in adress string browser chrome this<br>
 ```javascript
 node.cool
 
+```
+<br>
+
+### Package.json
+How to use [package.json](https://habr.com/ru/companies/domclick/articles/510812/)
+
+<br>
+
+**Инициализация проекта:**
+```javascript
+npm init
+```
+(интерактивно)
+```javascript
+npm init -y
+```
+(с последующим редактированием в IDE)
+<br>
+**Добавление зависимостей:**
+```javascript
+npm install <dependency>
+
+npm install <dependency-1> <dependency-2>…
+
+npm install -D <dev-dependency>…
+```
+<br>
+
+**Проверка и обновление зависимостей:**
+```javascript
+npm outdated
+```
+(просмотр прямых устаревших зависимостей)
+```javascript
+npm outdated --depth=9999
+```
+(просмотр всех устаревших зависимостей)
+```javascript
+npm update
+```
+(обновление прямых устаревших зависимостей с учетом semver)
+```javascript
+npm update --depth=9999
+```
+(обновление всех устаревших зависимостей с учетом semver)
+```javascript
+npm-check
+```
+(просмотр прямых устаревших зависимостей)
+```javascript
+npm-check -u
+```
+(интерактивное обновление прямых устаревших зависимостей)
+<br>
+
+**Удаление зависимостей:**
+```javascript
+npm rm <dependency>
 ```

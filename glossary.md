@@ -1,3 +1,5 @@
+![alt-glossary](green_light_logo.png "Glossary logo")
+
 # Glossary
 
 ##### Contents

@@ -1,8 +1,12 @@
-![alt-glossary](green_light_logo.png "Glossary logo")
-
 # Glossary
 
-##### Contents
+<div align="center">
+<img src="green_light_logo.jpg" width="500" height="500" alt="Glossary logo">
+</div>
+
+
+## Contents
+
 [Node.js](#node-js)<br>
 [GitHub helpful](#github-helpful)<br>
 [Termins for Frontend Development ENG](#termins-front-end)<br>

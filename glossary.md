@@ -1,10 +1,9 @@
 # Glossary
 
 ##### Contents
-[Node.js](#node-js)
-[GitHub helpful](#github-helpful)
-
-[ENG Termins for Frontend Development](#termins-front-end)
+[Node.js](#node-js)<br>
+[GitHub helpful](#github-helpful)<br>
+[ENG Termins for Frontend Development](#termins-front-end)<br>
 
 <a name="termins-front-end"><h2>Termins for Frontend Dev</h2></a>
 

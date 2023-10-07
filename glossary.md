@@ -3,13 +3,13 @@
 ##### Contents
 [Node.js](#node-js)<br>
 [GitHub helpful](#github-helpful)<br>
-[ENG Termins for Frontend Development](#termins-front-end)<br>
+[Termins for Frontend Development ENG](#termins-front-end)<br>
 
 <br>
 <br>
 <br>
 
-<a name="termins-front-end"><h2>Termins for Frontend Dev</h2></a>
+<a id="termins-front-end"><h2>Termins for Frontend Dev</h2></a>
 
 ### User Experience (UX)
 Пользовательский интерфейс (UI) - это совокупное восприятие и взаимодействие пользователя с продуктом, услугой или системой. Она охватывает все аспекты пользовательского взаимодействия, включая внешний вид, удобство использования, процессы взаимодействия и эмоциональный опыт. Главная цель UX - обеспечить пользователю приятное и эффективное взаимодействие с продуктом, что ведет к удовлетворенности и лояльности пользователей.

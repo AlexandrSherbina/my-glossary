@@ -1,7 +1,7 @@
 ## Instructions
 
 <div align="left">
-<img src="green_light_logo.jpg" width="200" height="500" alt="Glossary logo">
+<img src="green_light_logo.jpg" width="200" height="200" height="500" alt="Glossary logo">
 </div>
 
 

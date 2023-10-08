@@ -15,7 +15,7 @@ Welcome to a glossary of technical terms and instructions in the IT industry. Th
 If you have new terms you'd like to add to the glossary or instructions you'd like to suggest, feel free to contribute. Create a Pull Request and help make this resource more useful to everyone in the IT community.
 
 ## License
-This project is distributed under the [LICENSE] license. See the LICENSE.md file for more information.
+This project is distributed under the [LICENSE MIT](LICENSE.md) license. See the LICENSE.md file for more information.
 
 ## Contact Us
 If you have any questions or suggestions, feel free to contact me at alex.sherbina.work@gmail.com.

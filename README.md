@@ -1,4 +1,8 @@
 ## My Glossary and instructions in IT
+<div align="center">
+    <img width="500" src="green_light_logo.png"/>
+</div>
+  
 
 ## Description
 Welcome to a glossary of technical terms and instructions in the IT industry. This project is designed to give you quick access to ready-to-use information and instructions for setting up projects. Always updated and supplemented, it serves as a reference and cheat sheet for learning new topics and points in the world of information technology.
